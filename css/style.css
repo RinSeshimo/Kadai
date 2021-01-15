@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+
+img{
+    float: left;
+}
+
+.wrapper {
+    padding-bottom: 150px;
+}
+
+.wrapper p {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.wrapper a {
+    margin-left: 20px;
+}
+
+.top {
+    background-color: #884898;
+    border: none;
+    height: 30px;
+    margin: 0px;
+}
+
+.mid {
+    background-color: whitesmoke;
+    border: none;
+    height: 30px;
+    margin: 0px;
+}
+
+.under {
+    background-color: #4169E1;
+    border: none;
+    height: 30px;
+    margin: 0px;
+}
